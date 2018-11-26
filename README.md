@@ -1,5 +1,5 @@
-# Hello-world
 
-Word.
+Hi i work in git
+i like git
+i like to work in git
 
-I work in  git
