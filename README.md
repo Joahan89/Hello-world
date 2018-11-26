@@ -1,5 +1,5 @@
 # Hello-world
 
-Word
+Word.
 
 I work in  git
